@@ -1,0 +1,4 @@
+matplotlib==3.7.1
+yfinance==0.2.12
+ta==0.10.2
+XlsxWriter==3.0.9
